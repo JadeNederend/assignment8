@@ -1,0 +1,68 @@
+@charset "utf-8";
+
+body {
+    background-image: url(images/cloud-background-with-pastel-colour_66899-936.jpg);
+    background-size: cover;
+}
+.introduction {
+    background-color: #FF8284;
+    width: 268px;
+    border-radius: 20px;
+    height: 42px;
+    font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 12pt;
+    color: #000000;
+    text-align: center;
+    line-height: 43px;
+    text-indent: -2px;
+}
+.about.me {
+    background-color: #FFB5B6;
+    width: 112px;
+    height: 29px;
+    font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 10pt;
+    border-radius: 20px;
+    text-align: center;
+	line-height: 26px;
+}
+.my.goals {
+    background-color: #FFB5B6;
+    width: 112px;
+    height: 29px;
+    font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 12pt;
+    border-radius: 20px;
+    text-align: center;
+    line-height: 27px;
+}
+.resume {
+	background-color: #FFB5B6;
+    width: 112px;
+    height: 29px;
+    font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 11pt;
+    border-radius: 20px;
+    text-align: center;
+    line-height: 27px;
+}
+.education {
+	background-color: #FFB5B6;
+    width: 112px;
+    height: 29px;
+    font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 12pt;
+    border-radius: 20px;
+    text-align: center;
+    line-height: 27px;
+}
+.work.experience {
+    background-color: #FFB5B6;
+    width: 155px;
+    height: 29px;
+    font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 11pt;
+    border-radius: 20px;
+    text-align: center;
+    line-height: 27px;
+}
